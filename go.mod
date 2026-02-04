@@ -1,4 +1,4 @@
-module github.com/betwins/gtools
+module github.com/niancraft/gtools
 
 go 1.25.6
 
